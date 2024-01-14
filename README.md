@@ -23,4 +23,12 @@ Reverse complement RNA
 
 Actual code to all these topics with examples: [Seq_module code](https://github.com/usamapakhtar/biopython/blob/main/Seq_module.py)
 
+Slicing 
+
+Find Functions 
+
+Count Method (Nucleotide Bases count method)
+
+Find Method (Find a specific combination of bases in DNA)
+
 
