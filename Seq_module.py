@@ -60,3 +60,15 @@ print(dna_sequence)
 rev_compl_rna= dna_sequence.reverse_complement_rna()
 print(rev_compl_rna)
 
+print("______________________________")
+
+#sequence slicing
+sequence_subset = dna_sequence[2:5]
+print(sequence_subset)
+
+#Nucleotide base count
+base_count= dna_sequence.count("AT")
+print(base_count)
+
+
+
