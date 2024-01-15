@@ -70,5 +70,8 @@ print(sequence_subset)
 base_count= dna_sequence.count("AT")
 print(base_count)
 
+#Finding a specific nucleotide base/base pair/ base sequence
+nuleotide_base= rna_sequence.find("UG")
+print(nucleotide_base)
 
 
