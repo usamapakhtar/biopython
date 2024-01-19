@@ -29,7 +29,7 @@ Find Functions (Find the Nucleotide bases)
 
 Count Method (Nucleotide Bases count method)
 
-Find Method (Find a specific combination of nucleotide bases in sequence)
+Find Method (Find a specific combination of nucleotide bases in sequence like "UGC")
 
 
 
