@@ -3,6 +3,8 @@ Biopython is an open-source and powerful programming toolkit specifically design
 
 *Seq Module*:
 
+You can find all these topics in the [Seq_module]() file
+
 Generating new sequences
 
 Accessing the sequences
