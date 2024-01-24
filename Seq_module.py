@@ -7,8 +7,8 @@ protein_sequence= Seq("MKLMH")
 
 #Accesing the sequences
 print("DNA Sequence:", dna_sequence)
-print("RNA Sequence:",rna_sequence)
-print("Protein Sequence:",protein_sequence)
+print("RNA Sequence:", rna_sequence)
+print("Protein Sequence:", protein_sequence)
 
 print("______________________________")
 
