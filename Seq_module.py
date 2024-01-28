@@ -19,6 +19,8 @@ print("length of Protein sequence:", len(protein_sequence))
 
 print("______________________________")
 
+
+
 #Concatinating/Adding two sequences
 seq1= Seq("ATCT")
 seq2= Seq("AACTT")
